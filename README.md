@@ -61,7 +61,7 @@ Welcome to my GitHub profile. Feel free to explore, fork, and reach out!
 ---
 
 ## 🔗 Where to find me
-
+- 🏠 [Blog](https://marc0x71.github.io/)- My blog
 - 📺 [YouTube Channel](https://www.youtube.com/playlist?list=PL75yUkG-fXnv0fkK0zNgsU8malexOdCsp) - Complete Rust course + tutorials on Vim and Git
 - 🐘 [Mastodon](https://mastodon.uno/@marcobollero) - Follow me on the fediverse
 - 🐦 [X](https://x.com/marcobollero) - Quick updates and thoughts
