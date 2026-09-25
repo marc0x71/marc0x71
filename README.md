@@ -1,6 +1,6 @@
 # Hi, I'm Marco 👋 and I (still) want to learn 🚀
 
-At 54, after decades spent writing code in C, C++, and Python, I could think I've seen everything in the world of programming. But no. A few years ago, I stumbled upon Rust and... I fell in love. ❤️
+At 55, after decades spent writing code in C, C++, and Python, I could think I've seen everything in the world of programming. But no. A few years ago, I stumbled upon Rust and... I fell in love. ❤️
 
 It wasn't love at first sight, to be clear. Rust challenges you, forces you to think differently about memory management, concurrency, and code safety. But it was precisely this challenge that reignited that spark ✨ I felt the first time I wrote a program.
 
